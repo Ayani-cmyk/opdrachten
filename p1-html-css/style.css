@@ -1,0 +1,25 @@
+body{
+    font-family: 'saira', sans-serif;
+}
+h2{
+    font-size: 56px;
+    font: weight 500px;
+    color:#9000ff
+    
+
+}
+p{
+    font-size: 28px;
+    font-weight: bolder;
+    color: #0d0303
+
+}
+a{
+    font-size: larger;
+    color: #7272dd;
+    text-decoration: none;
+}
+
+
+
+
